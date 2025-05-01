@@ -1,9 +1,10 @@
 ## Hi there, call me Raj 👋
 
-🧠 Biomedical Graduate from NITR</br>
-☢️ Looking out for new tech in the market</br>
-🌐 I work with APIs and databases</br>
-⚛️ Also code in react for fun haven't planned to go professional</br>
+🧠 Biomedical Engineering Graduate from NIT Rourkela</br>
+💡 Passionate about solving biomedical problems through code</br>
+☢️ Always exploring the latest tech trends</br>
+🌐 Working with APIs and databases</br>
+⚛️ Building cool stuff with React (just for fun — not planning to go pro... yet!)</br>
 
 
 # 💻 Tech Stack:
