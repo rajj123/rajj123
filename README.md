@@ -4,7 +4,6 @@
 💡 Passionate about solving biomedical problems through code</br>
 ☢️ Always exploring the latest tech trends</br>
 🌐 Working with APIs and databases</br>
-⚛️ Building cool stuff with React (just for fun — not planning to go pro... yet!)</br>
 
 
 # 💻 Tech Stack:
